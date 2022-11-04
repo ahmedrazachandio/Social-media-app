@@ -7,7 +7,7 @@ function App() {
     <header className="grid main-header">
        <div className="flex-container header-container">
     <span className="logo logo-nav header-item">
-      Lategram
+      Instagram
     </span>
     
     <div className="header-item searchbar ">
@@ -40,7 +40,7 @@ function App() {
         <i className="bi bi-heart"></i>
       </li>
       <li className="navbar-item no-hover">
-        <img src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" alt=""/>
+        <img src="https://res.cloudinary.com/dmpwlgidc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1667456346/Snapchat-705021874_fknqqa.jpg" alt=""/>
       </li>
     </ul> 
   </nav>
@@ -52,7 +52,7 @@ function App() {
     <div className="pop-wrapper flex-container">
       <span className="pop flex-container">
         <div className="pop-img-container">
-        <img src="https://images.unsplash.com/photo-1488161628813-04466f872be2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80" alt="" className="pop-img"/>
+        <img src="https://res.cloudinary.com/dmpwlgidc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1667456346/Snapchat-705021874_fknqqa.jpg" alt="" className="pop-img"/>
           </div>
         <p className="pop-text">Lorem.</p>
       </span>
@@ -93,13 +93,13 @@ function App() {
     <div className="card-wrapper flex-container">
       <div className="card-header grid">
         <div className="header-img-container flex-container">
-          <img className="card-header-img" src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" alt=""/>
+          <img className="card-header-img" src="https://res.cloudinary.com/dmpwlgidc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1667456346/Snapchat-705021874_fknqqa.jpg" alt=""/>
         </div>
         <span className="card-title">
-          Lorem, ipsum.
+          Ahmed Raza
         </span>
           
-         <span className="card-subtitle">Lorem, ipsum.</span>
+         <span className="card-subtitle">Ahmed Raza</span>
         <div className="card-opt-btn flex-container"><i className="bi bi-three-dots"></i></div>
       </div>
       <div className="card-img-container">
@@ -112,7 +112,7 @@ function App() {
         <span className="card-icon card-icon-left"><i className="bi bi-send"></i></span>
         <span className="card-icon card-icon-right"><i className="bi bi-bookmark"></i></span>
         </div>
-        <span className="bold card-text">701 Likes</span>
+        <span className="bold card-text">1000m Likes</span>
         <span className="card-text"><span className="bold title-margin">Lorem, ipsum.</span>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro, nesciunt. Lorem, ipsum dolor.</span>
         <span className="card-text comments-btn">See more comments</span>
         <span className="card-time"></span>
@@ -132,13 +132,13 @@ function App() {
     <div className="card-wrapper flex-container">
       <div className="card-header grid">
         <div className="header-img-container flex-container">
-        <img className="card-header-img" src="https://images.unsplash.com/photo-1521146764736-56c929d59c83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt=""/>
+        <img className="card-header-img" src="https://res.cloudinary.com/dmpwlgidc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1667456346/Snapchat-705021874_fknqqa.jpg" alt=""/>
           </div>
         <span className="card-title">
-          Lorem, ipsum.
+          Ahmed Raza
         </span>
           
-         <span className="card-subtitle">Lorem, ipsum.</span>
+         <span className="card-subtitle">Ahmed Raza</span>
         <div className="card-opt-btn flex-container"><i className="bi bi-three-dots"></i></div>
       </div>
       <div className="card-img-container">
@@ -172,11 +172,11 @@ function App() {
 <div className="sidebar">
   <div className="sidebar-menu-container">
     <div className="sidebar-card sidebar-header grid">
-      <img  src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" alt="" className="sidebar-img sidebar-hd-img"/>
+      <img  src="https://res.cloudinary.com/dmpwlgidc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1667456346/Snapchat-705021874_fknqqa.jpg" alt="" className="sidebar-img sidebar-hd-img"/>
       <span className="sidebar-title card-title">
-        Lorem, ipsum.
+        Ahmed Raza
       </span>
-      <span className="card-subtitle sidebar-subtitle">Lorem.</span>
+      <span className="card-subtitle sidebar-subtitle">you.</span>
       <span className="sidebar-btn">
         Change
       </span>
@@ -190,43 +190,43 @@ function App() {
       </span>
     </div>
      <div className="sidebar-card sidebar-card-alt grid">
-      <img  src="https://images.unsplash.com/photo-1657000529335-5c1bf76204af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="" className="sidebar-img side-bar-img-alt"/>
+      <img  src="https://avatars.githubusercontent.com/u/99634425?v=4" alt="" className="sidebar-img side-bar-img-alt"/>
       <span className="sidebar-title card-title">
-        Lorem, ipsum.
+      Muhammad Saad
       </span>
-      <span className="card-subtitle sidebar-subtitle sidebar-subtitle-alt">Lorem.</span>
+      <span className="card-subtitle sidebar-subtitle sidebar-subtitle-alt">muhammadsaad.</span>
       <span className="sidebar-btn">
-        Follow
+        Friend
       </span>
     </div>
     <div className="sidebar-card sidebar-card-alt grid">
-      <img  src="https://images.unsplash.com/photo-1656143269388-e65183fac19f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="" className="sidebar-img side-bar-img-alt"/>
+      <img  src="https://avatars.githubusercontent.com/u/93990677?v=4" alt="" className="sidebar-img side-bar-img-alt"/>
       <span className="sidebar-title card-title">
-        Lorem, ipsum.
+        Shehzad Iqbal
       </span>
-      <span className="card-subtitle sidebar-subtitle sidebar-subtitle-alt">Lorem.</span>
+      <span className="card-subtitle sidebar-subtitle sidebar-subtitle-alt">shehzadiqbal.</span>
       <span className="sidebar-btn">
-        Follow
+      Friend
       </span>
     </div>
     <div className="sidebar-card sidebar-card-alt grid">
-      <img  src="https://images.unsplash.com/photo-1656863949585-2bd7f7d0f3d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="" className="sidebar-img side-bar-img-alt"/>
+      <img  src="https://avatars.githubusercontent.com/u/100703348?v=4" alt="" className="sidebar-img side-bar-img-alt"/>
       <span className="sidebar-title card-title">
-        Lorem, ipsum.
+        Ali Raza
       </span>
-      <span className="card-subtitle sidebar-subtitle sidebar-subtitle-alt">Lorem.</span>
+      <span className="card-subtitle sidebar-subtitle sidebar-subtitle-alt">aliraza.</span>
       <span className="sidebar-btn">
-        Follow
+      Friend
       </span>
     </div>
     <div className="sidebar-card sidebar-card-alt grid">
-      <img  src="https://images.unsplash.com/photo-1656858772675-49e73a27d22b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="" className="sidebar-img side-bar-img-alt"/>
+      <img  src="https://avatars.githubusercontent.com/u/89778620?v=4" alt="" className="sidebar-img side-bar-img-alt"/>
       <span className="sidebar-title card-title">
-        Lorem, ipsum.
+        Saaim Khan
       </span>
-      <span className="card-subtitle sidebar-subtitle sidebar-subtitle-alt">Lorem.</span>
+      <span className="card-subtitle sidebar-subtitle sidebar-subtitle-alt">saaimkhan.</span>
       <span className="sidebar-btn">
-        Follow
+        Friend
       </span>
     </div>
     
